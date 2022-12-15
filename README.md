@@ -2,9 +2,7 @@
 <div style="display: inline_block">
   <h1>JS - Pokedex </h1>
   <p><a href="https://www.dio.me/">DIO</a>'s JavaScript   Projeto pokedex, criado com base no <a href="https://dribbble.com/shots/6540871-Pokedex-App">Saepul Nahwan</a> design e consumindo o <a href="https://pokeapi.co/">PokeApi</a>.</p>
-  <h2>Desktop</h2>
-  <img alt="Index Deskto" height="200" src="https://github.com/herijohnson/pokedex/blob/main/README/index.png">
-  <img alt="Pokemon Desktop" height="200" src="https://github.com/herijohnson/pokedex/blob/main/README/pokemon.png">
+
   <h2>Mobile</h2>
   <img alt="Index Mobile" height="200" src="https://github.com/herijohnson/pokedex/blob/main/README/index-mobile.png">
   <img alt="Pokemon Mobile" height="200" src="https://github.com/herijohnson/pokedex/blob/main/README/pokemon-mobile.png">
